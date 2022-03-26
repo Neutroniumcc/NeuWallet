@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>wallet_address.png</file>
+  </qresource>
+</RCC>
